@@ -30,3 +30,4 @@ PERSONAL    - communicative;
             - purposeful;
             - attentive to details;
 
+ 

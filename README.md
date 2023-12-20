@@ -1,7 +1,7 @@
-Name: Smulska Vira
-E-mail: vera.smulskaya@gmail.com
-Address: Odesa, Ukraine
-Mobile phone: +380 97 394 88 13, (Telegram, Viber) 
+Name: Smulska Vira 
+E-mail: vera.smulskaya@gmail.com 
+Address: Odesa, Ukraine 
+Mobile phone: +380 97 394 88 13, (Telegram, Viber)  
 _________________________________________________________________________
 
 EDUCATION      2001–2007 Odessa I.I.Mechnikov National University.

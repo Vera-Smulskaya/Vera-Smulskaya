@@ -8,7 +8,7 @@ I am dedicated to enhancing my practical skills and theoretical knowledge on a d
    <a href="https://www.linkedin.com/in/vira-smulska">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a><br>
-   <a href='vera.smulskaya@gmail.com'>vera.smulskaya@gmail.com</a>&nbsp;
+   <a href='mailto: vera.smulskaya@gmail.com'>vera.smulskaya@gmail.com</a>&nbsp;
 </div>
 
 ## My stack and tools :

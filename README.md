@@ -15,27 +15,15 @@ I am dedicated to enhancing my practical skills and theoretical knowledge on a d
 
 ### My stack and tools :
 <div>
-  <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="./images/typescript-original.svg"  title="TS" alt="TS" width="40" height="40"/>&nbsp;
-  <img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="./images/nodejs-original.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="./images/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="./images/bem-original.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
-  <img src="./images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="./images/github-original.svg" title="GitHub"  alt="GitHub" width="40"/>&nbsp;
-  <img src="./images/gitlab-original.svg" title="GitLub" alt="GitLub" width="40" height="40"/>&nbsp;
-  <img src="./images/npm-original.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
-  <img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
-  <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
-  <img src="./images/terminal-original.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
-  <img src="./images/browserslist-original.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
-  <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
-  <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="./images/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;
+   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;
 </div>
 
 
